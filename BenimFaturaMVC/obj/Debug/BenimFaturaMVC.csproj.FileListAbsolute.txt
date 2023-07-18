@@ -1,0 +1,858 @@
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\BenimFaturaMVC.dll.config
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\BenimFaturaMVC.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\BenimFaturaMVC.pdb
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\csc.exe
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\csc.exe.config
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\csc.rsp
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\csi.exe
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\csi.exe.config
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\csi.rsp
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.AppContext.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Console.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\vbc.exe
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\vbc.exe.config
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\vbc.rsp
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Helpers.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Mvc.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Razor.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Webpages.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Razor.xml
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Webpages.xml
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Helpers.xml
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Mvc.xml
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csprojAssemblyReference.cache
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CoreCompileInputs.cache
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CopyComplete
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.dll
+C:\Users\meteh\Documents\BenimFaturaMVC\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.pdb
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\BenimFaturaMVC.dll.config
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\BenimFaturaMVC.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\BenimFaturaMVC.pdb
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\csc.exe
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\csc.exe.config
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\csc.rsp
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\csi.exe
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\csi.exe.config
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\csi.rsp
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.AppContext.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Console.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\vbc.exe
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\vbc.exe.config
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\vbc.rsp
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Helpers.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Mvc.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Razor.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Webpages.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Razor.xml
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Webpages.xml
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Helpers.xml
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\System.Web.Mvc.xml
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.dll
+C:\Users\MONSTER\Desktop\BenimFaturaMVC\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.pdb
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll.config
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.pdb
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe.config
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.rsp
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe.config
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.rsp
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.AppContext.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Console.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe.config
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.rsp
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.xml
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.xml
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.xml
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.xml
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.dll
+C:\Users\MONSTER\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.pdb
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll.config
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.pdb
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.xml
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CopyComplete
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.dll
+C:\Users\ASUS\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.pdb
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll.config
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.pdb
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.xml
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CopyComplete
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.dll
+C:\Users\user\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.pdb
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll.config
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.pdb
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.xml
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csprojAssemblyReference.cache
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CopyComplete
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.dll
+C:\Users\user\Desktop\bloglu\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.pdb
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll.config
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.pdb
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe.config
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.rsp
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe.config
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.rsp
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Console.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe.config
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.rsp
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.xml
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.xml
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.xml
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.xml
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.AssemblyReference.cache
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CoreCompileInputs.cache
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CopyComplete
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.dll
+C:\Users\Dell PC\Desktop\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.pdb
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll.config
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.pdb
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe.config
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.rsp
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe.config
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.rsp
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Console.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe.config
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.rsp
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.xml
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.xml
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.xml
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.xml
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.AssemblyReference.cache
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CoreCompileInputs.cache
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CopyComplete
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.dll
+C:\Users\Dell PC\Desktop\Bilsoft\Benim Fatura\benimfaturacom\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.pdb
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll.config
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.pdb
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe.config
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.rsp
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe.config
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.rsp
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Console.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe.config
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.rsp
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.xml
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.xml
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.xml
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.xml
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.AssemblyReference.cache
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CoreCompileInputs.cache
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CopyComplete
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.dll
+C:\Users\Dell PC\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.pdb
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll.config
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.pdb
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe.config
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.rsp
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe.config
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.rsp
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Console.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.rsp
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.xml
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CopyComplete
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.dll
+C:\Users\Dell\Desktop\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.pdb
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll.config
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\BenimFaturaMVC.pdb
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.exe.config
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csc.rsp
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.exe.config
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\csi.rsp
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Console.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.exe.config
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\vbc.rsp
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Razor.xml
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.xml
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Helpers.xml
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\System.Web.Mvc.xml
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.csproj.CopyComplete
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.dll
+C:\Users\Dell\OneDrive\Masaüstü\BenimFaturaSON\BenimFaturaMVC\obj\Debug\BenimFaturaMVC.pdb
